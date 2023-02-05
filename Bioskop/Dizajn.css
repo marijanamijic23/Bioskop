@@ -1,0 +1,218 @@
+﻿body {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 50%;
+}
+
+#pucina {
+    width: 50%;
+    height: 80%;
+    background-color: aqua;
+}
+
+#slika1 {
+    float: right;
+    width: 40%;
+    height: 250vh;
+    position: absolute;
+    right: -0.5%;
+    top: 0px;
+    z-index: -1;
+}
+
+#a {
+    width: 200%;
+    height: 5vh;
+    background-color: rgb(32,32,32);
+}
+
+#b {
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(32,32,32);
+    margin-left: 0%;
+    padding: 0px;
+    position: absolute;
+    bottom: -200%;
+    
+    
+    
+}
+
+#divovi {
+    width: 80%;
+    height: 80vh;
+    background-color: aquamarine;
+}
+
+
+#jedan {
+    position: absolute;
+    bottom: 3%;
+    left: 5%;
+    color: white;
+}
+
+.d {
+    color: white;
+    position: fixed;
+    bottom: 3%;
+}
+
+#d1 {
+    position: absolute;
+    left: 40%;
+    bottom: 20%;
+}
+
+#d2 {
+    position: absolute;
+    left: 49%;
+}
+
+#d3 {
+    position: absolute;
+    left: 58%;
+}
+
+#d4 {
+    position: absolute;
+    left: 64%;
+}
+
+#d5 {
+    position: absolute;
+    left: 69%;
+}
+
+.k {
+    color: white;
+    position: fixed;
+    bottom: 60%;
+    font-size: 120%;
+}
+
+#k1 {
+    position: absolute;
+    left: 5%;
+    bottom: 20%;
+}
+
+#k2 {
+    position: absolute;
+    left: 18%;
+}
+
+#k3 {
+    position: absolute;
+    left: 34%;
+}
+
+#k4 {
+    position: absolute;
+    left: 48%;
+}
+
+
+
+#uk {
+    position: absolute;
+    bottom: 37%;
+    left: 2%;
+    list-style: none;
+    color: white;
+}
+
+#n {
+    color: white;
+    position: absolute;
+    bottom: 30%;
+    font-size: 120%;
+    left: 5%;
+}
+
+#p1 {
+    position: absolute;
+    bottom: 19%;
+}
+
+#p2 {
+    position: absolute;
+    bottom: 19%;
+}
+
+#p3 {
+    position: absolute;
+    left: 34%;
+}
+
+#beta {
+    position: absolute;
+    top: 285%;``
+    left: 2%;
+    list-style: none;
+    color: white;
+}
+
+#alfa {
+    position: absolute;
+    top: 285%;
+    left: 17%;
+    list-style: none;
+    color: white;
+}
+
+#rio {
+    width: 70%;
+    background-color: white;
+    position: absolute;
+    left: 3%;
+    top: 50%;
+}
+
+.du {
+    border: 2px solid white;
+    background-color: white;
+    border-right: 1px solid black;
+    color: black;
+}
+
+#gama {
+    position: absolute;
+    top:285%;
+    left: 31%;
+    list-style: none;
+    color: white;
+}
+
+
+
+#ik {
+    position: absolute;
+    bottom: 43%;
+    left: 17%;
+    list-style: none;
+    color: white;
+}
+
+#ek {
+    position: absolute;
+    bottom: 42%;
+    left: 31%;
+    list-style: none;
+    color: white;
+}
+
+#kk {
+    position: absolute;
+    bottom: 53%;
+    left: 45%;
+    list-style: none;
+    color: white;
+}
+
+#hu {
+    margin-bottom: 10%;
+}
